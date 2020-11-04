@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **linkedin.com/in/soumyadeep-dutta/**
+- 📫 Reach me [LinkedIn](https://www.linkedin.com/in/soumyadeep-dutta/)
 
 - 📄 Know about my experiences [View Resume](https://drive.google.com/file/d/1lSOuo7E15Votdv2P5vqfP7-m7y0KpSzu/view?usp=sharing)
 
