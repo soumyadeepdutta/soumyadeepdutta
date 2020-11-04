@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **linkedin.com/in/soumyadeep-dutta/**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1lSOuo7E15Votdv2P5vqfP7-m7y0KpSzu/view?usp=sharing](https://drive.google.com/file/d/1lSOuo7E15Votdv2P5vqfP7-m7y0KpSzu/view?usp=sharing)
+- 📄 Know about my experiences [View Resume](https://drive.google.com/file/d/1lSOuo7E15Votdv2P5vqfP7-m7y0KpSzu/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
