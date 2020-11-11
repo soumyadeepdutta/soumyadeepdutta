@@ -3,15 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soumyadeepdutta" alt="soumyadeepdutta" /></a> </p>
 
-- 🔭 I’m currently working on [Educative](https://educative-py.herokuapp.com/)
-
 - 🌱 I’m currently learning **NodeJS**
 
 - 💬 Ask me about **Python**
 
 - 📫 Reach me [LinkedIn](https://www.linkedin.com/in/soumyadeep-dutta/)
-
-- 📄 Know about my experiences [View Resume](https://drive.google.com/file/d/1lSOuo7E15Votdv2P5vqfP7-m7y0KpSzu/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
