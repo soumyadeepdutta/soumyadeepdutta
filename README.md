@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Soumyadeep</h1>
 <h3 align="center">A passionate NodeJS developer from India</h3>
 
-- 🔭 I’m currently working on [OnlineVirtualTax](https://www.onlinevirtualtax.com/)
+<!-- - 🔭 I’m currently working on [OnlineVirtualTax](https://www.onlinevirtualtax.com/) -->
 
 - 🌱 I’m currently learning **Artificial Intelligence & Data Analytics**
 
