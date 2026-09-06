@@ -9,7 +9,7 @@ Currently at **[KFin Technologies](https://www.kfintech.com/)** (Hyderabad), own
 - Open to collaborate on **Node.js / NestJS**, **Python RAG**, **AWS**, and **MCP tooling**
 - Ask me about event-driven systems, observability (Prometheus / Grafana / Tempo), and privacy-first local AI
 
-🌐 Portfolio: [soumyadeepdutta.github.io](https://soumyadeepdutta.github.io/) · [soumyadeepdutta.netlify.app](https://soumyadeepdutta.netlify.app)
+🌐 Portfolio: [soumyadeepdutta.github.io](https://soumyadeepdutta.github.io/)
 
 ## Socials
 
